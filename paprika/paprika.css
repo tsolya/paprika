@@ -1,0 +1,61 @@
+body {
+    background-color:#FFEFD5 ;
+    color:#8B4513 ;
+}
+.jobb{
+    float:left;
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.bemutatkozas{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+.csiposseg{
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+td{
+    text-align: center;
+    border: 1px solid #8B4513;
+    padding: 5px;
+}
+th{
+    text-align: left;
+    width: 120px;
+    text-align: center;
+    border: 1px solid #8B4513;
+    padding: 5px;
+}
+
+table{
+    width:300px;
+    border-collapse: collapse;
+    font-weight: bold;
+    
+}
+li{
+    list-style-image:url(./chili-pepper-icon.gif) ;
+    background-color: #f8f8f8;
+    margin:10px;
+    padding: 10px;
+    border: 2px solid #8fe9f0;
+
+}
+.fejlec{
+    background-image: url(./szines.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding:20px;
+}
+a:hover{
+    color:white;
+}
+a{
+    text-decoration: none;
+}
+
+menu{
+    width: 300px;
+}
